@@ -26,4 +26,4 @@ For new projects. they should be started from scratch by transferring and re-org
 - **RTMP** media server to stream video
 - **FFmpeg** for streaming video from a connected webcam to the RTMP server
 
-
+Refer to [http://sidigital.co/sid](http://sidigital.co/sid) for an overview of the technologies as it was used as an initial basis for this project
